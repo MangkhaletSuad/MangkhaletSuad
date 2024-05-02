@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T09:02:41.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ltLafHqEFcTJUYBq0drx" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-02T09:03:21.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3AlXHx5W8u-lCvpEA_My" version="23.0.0" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="2641" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3773" dy="1414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="6a7d8f32e03d9370-59" value="&amp;nbsp;Rack case" style="whiteSpace=wrap;html=1;fillColor=#EDEDED;fontSize=14;strokeColor=none;verticalAlign=top;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
-          <mxGeometry x="360" y="247" width="1033" height="745" as="geometry" />
+        <mxCell id="6a7d8f32e03d9370-59" value="&amp;nbsp;Rack case" style="whiteSpace=wrap;html=1;fillColor=#EDEDED;fontSize=14;strokeColor=none;verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="442" y="249" width="870" height="693" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-62" value="Rack case Network Architecture" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="446" y="160" width="861" height="40" as="geometry" />
+          <mxGeometry x="446.5" y="190" width="861" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ILSyqEb9SUXVf6VAX7tF-1" value="Router" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.router;" parent="1" vertex="1">
           <mxGeometry x="580" y="577.25" width="55" height="36.5" as="geometry" />
